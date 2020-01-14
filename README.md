@@ -18,6 +18,6 @@
 
 *Identify fraudulent credit card transactions.*
 
-*Given the class imbalance ratio, i recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.*
+*Given the class imbalance ratio, I recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.*
 
 ---
